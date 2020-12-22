@@ -53,20 +53,38 @@
 ##
 2020/11/30
 ##
-
+![Image text]
+(https://github.com/Budingxia/Mask/blob/main/1.PNG)
+![Image text]
+(https://github.com/Budingxia/Mask/blob/main/%E6%8D%95%E8%8E%B7.PNG)
+![Image text]
+(https://github.com/Budingxia/Mask/blob/main/IMG_20201222_082437.jpg)
+![Image text]
+(https://github.com/Budingxia/Mask/blob/main/IMG_20201222_082507.jpg)
+![Image text]
+(https://github.com/Budingxia/Mask/blob/main/IMG_20201222_082559.jpg)
 
 
 
 ##
 Beta阶段出口条件：实现前后端连接
+
 已完成
+
 徐敏霞：学习将后端数据转为json格式后发给前端
+
 张婷婷：在github上进行撰写项目说明文档；学习了解关于前后端连接的相关知识
+
 黄辰灏：最后对于环境的配置，代码的运行，样例测试
+
 张杰：终端调用文件并传参的部分
+
 赵红霞：解决无法本地运行的问题
 
 计划完成
+
 前端：将前端的图片正确交付给后端python接口。
+
 后端：传参之后给出正确的结果反馈。
+
 文档及连接：搭建前后端连接所需要的环境，继续进行说明文档撰写。
