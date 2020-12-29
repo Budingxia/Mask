@@ -53,16 +53,15 @@
 ##
 2020/11/30
 ##
-![Image text]
-(https://github.com/Budingxia/Mask/blob/main/1.PNG)
-![Image text]
-(https://github.com/Budingxia/Mask/blob/main/%E6%8D%95%E8%8E%B7.PNG)
-![Image text]
-(https://github.com/Budingxia/Mask/blob/main/IMG_20201222_082437.jpg)
-![Image text]
-(https://github.com/Budingxia/Mask/blob/main/IMG_20201222_082507.jpg)
-![Image text]
-(https://github.com/Budingxia/Mask/blob/main/IMG_20201222_082559.jpg)
+![Image text](https://github.com/Budingxia/Mask/raw/master/1.PNG)
+
+![Image text](https://github.com/Budingxia/Mask/raw/master/%E6%8D%95%E8%8E%B7.PNG)
+
+![Image text](https://github.com/Budingxia/Mask/raw/master/IMG_20201222_082437.jpg)
+
+![Image text](https://github.com/Budingxia/Mask/raw/master/IMG_20201222_082507.jpg)
+
+![Image text](https://github.com/Budingxia/Mask/raw/master/IMG_20201222_082559.jpg)
 
 
 
